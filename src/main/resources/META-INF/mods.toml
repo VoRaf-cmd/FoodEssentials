@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+license="MIT"
+
+[[mods]]
+modId="foodessentials"
+version="1.0.0"
+displayName="Food Essentials"
+updateJSONURL="http://mod.url"
+displayURL="http://mod.url"
+logoFile="logo.png"
+credits="Desenvolvido pela Syntax Craft Studio."
+authors="Rafael e Caio"
+description='''
+Adiciona novas comidas essenciais, bancadas, ferramentas e mecanicas novas para a sua jornada no Minecraft!
+Desenvolvido pela Syntax Craft Studio.'''

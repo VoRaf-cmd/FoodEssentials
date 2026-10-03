@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodessentials:cheese_block"
+    }
+  ],
+  "result": {
+    "item": "foodessentials:cheese_slice",
+    "count": 9
+  }
+}

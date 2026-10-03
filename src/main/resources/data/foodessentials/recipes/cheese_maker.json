@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": [
+    "SSS",
+    "SRS",
+    "SIS"
+  ],
+
+  "key": {
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+
+  "result": {
+    "item": "foodessentials:cheese_maker",
+    "count": 1
+  }
+}

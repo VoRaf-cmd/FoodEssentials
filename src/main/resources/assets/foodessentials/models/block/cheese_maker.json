@@ -1,0 +1,10 @@
+{
+  "parent": "foodessentials:block/cheese_maker_base",
+  "textures": {
+    "top": "foodessentials:block/cheese_maker_top",
+    "bottom": "block/iron_block",
+    "front": "foodessentials:block/cheese_maker_front",
+    "side": "foodessentials:block/cheese_maker_side",
+    "back": "foodessentials:block/cheese_maker_back"
+  }
+}

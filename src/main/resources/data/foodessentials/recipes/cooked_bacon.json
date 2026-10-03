@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "foodessentials:bacon"
+  },
+  "result": "foodessentials:cooked_bacon",
+  "experience": 0.35,
+  "cookingtime": 200
+}

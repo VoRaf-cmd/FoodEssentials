@@ -1,0 +1,13 @@
+{
+  "item.foodessentials.hamburger": "Hambúrguer",
+  "item.foodessentials.cheeseburger": "Hambúrguer de Queijo",
+  "item.foodessentials.baconburger": "Hambúrguer de Bacon",
+  "item.foodessentials.cheese_slice": "Fatia de Queijo",
+  "block.foodessentials.cheese_block": "Bloco de Queijo",
+  "block.foodessentials.cheese_maker": "Máquina de Queijo",
+  "item.foodessentials.bacon": "Bacon",
+  "item.foodessentials.cooked_bacon": "Bacon Assado",
+  "item.foodessentials.knife": "Faca",
+  "entity.minecraft.villager.foodessentials.queijeiro": "Queijeiro"
+}
+

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodessentials:cheese_slice"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "foodessentials:cooked_bacon"
+    }
+  ],
+  "result": {
+    "item": "foodessentials:baconburger",
+    "count": 1
+  }
+}

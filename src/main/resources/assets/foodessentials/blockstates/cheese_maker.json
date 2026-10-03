@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=north,lit=false,eject=false": { "model": "foodessentials:block/cheese_maker" },
+    "facing=north,lit=true,eject=false": { "model": "foodessentials:block/cheese_maker_active" },
+    "facing=north,lit=true,eject=true": { "model": "foodessentials:block/cheese_maker_eject" },
+    "facing=north,lit=false,eject=true": { "model": "foodessentials:block/cheese_maker_eject" },
+
+    "facing=south,lit=false,eject=false": { "model": "foodessentials:block/cheese_maker", "y": 180 },
+    "facing=south,lit=true,eject=false": { "model": "foodessentials:block/cheese_maker_active", "y": 180 },
+    "facing=south,lit=true,eject=true": { "model": "foodessentials:block/cheese_maker_eject", "y": 180 },
+    "facing=south,lit=false,eject=true": { "model": "foodessentials:block/cheese_maker_eject", "y": 180 },
+
+    "facing=east,lit=false,eject=false": { "model": "foodessentials:block/cheese_maker", "y": 90 },
+    "facing=east,lit=true,eject=false": { "model": "foodessentials:block/cheese_maker_active", "y": 90 },
+    "facing=east,lit=true,eject=true": { "model": "foodessentials:block/cheese_maker_eject", "y": 90 },
+    "facing=east,lit=false,eject=true": { "model": "foodessentials:block/cheese_maker_eject", "y": 90 },
+
+    "facing=west,lit=false,eject=false": { "model": "foodessentials:block/cheese_maker", "y": 270 },
+    "facing=west,lit=true,eject=false": { "model": "foodessentials:block/cheese_maker_active", "y": 270 },
+    "facing=west,lit=true,eject=true": { "model": "foodessentials:block/cheese_maker_eject", "y": 270 },
+    "facing=west,lit=false,eject=true": { "model": "foodessentials:block/cheese_maker_eject", "y": 270 }
+  }
+}
